@@ -37,8 +37,7 @@ An AI-powered Resume Analyzer built using Python, Streamlit, Groq API, and Llama
 Resume_Analysis/
 │
 ├── resume.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
