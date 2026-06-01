@@ -3,6 +3,9 @@
 An AI-powered Resume Analyzer built using Python, Streamlit, Groq API, and Llama 3. This application allows users to upload resumes in PDF, DOCX, or TXT format and receive instant AI-generated feedback and analysis.
 
 ---
+## 🌐 Live Demo
+
+🔗 [https://your-app-name.streamlit.app](https://ai-resume-analyzer-kvehu8tlx3rgdp5znnbfbz.streamlit.app/)
 
 ## 🚀 Features
 
